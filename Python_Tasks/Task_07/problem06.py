@@ -1,4 +1,4 @@
-# Problem 07 : Pangrams
+# Problem 06 : Pangrams
 # HackerRank List : https://www.hackerrank.com/challenges/pangrams/problem
 
 def pangrams(s):
